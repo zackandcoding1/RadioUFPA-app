@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_website"
+        android:icon="@drawable/website"
+        android:title="Site"/>
+
+    <item android:id="@+id/menu_facebook"
+        android:icon="@drawable/facebook"
+        android:title="Facebook"/>
+
+    <item android:id="@+id/menu_twitter"
+        android:icon="@drawable/twitter"
+        android:title="Twitter"/>
+
+    <item android:id="@+id/menu_instagram"
+        android:icon="@drawable/instagram"
+        android:title="Instagram"/>
+
+    <item android:id="@+id/menu_youtube"
+        android:icon="@drawable/youtube"
+        android:title="Youtube"/>
+
+    <item android:id="@+id/menu_phone"
+        android:icon="@drawable/telephone"
+        android:title="Telefone"/>
+
+</menu>
