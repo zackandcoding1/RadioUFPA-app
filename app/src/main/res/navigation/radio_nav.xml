@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/radio_nav"
+    app:startDestination="@id/aovivo">
+
+    <fragment
+        android:id="@+id/aovivo"
+        android:name="com.radiowebufpa.rdioufpa.aovivo"
+        android:label="Ao Vivo"
+        tools:layout="@layout/fragment_aovivo" />
+    <fragment
+        android:id="@+id/programacao"
+        android:name="com.radiowebufpa.rdioufpa.programacao"
+        android:label="Programação"
+        tools:layout="@layout/fragment_programacao" />
+</navigation>
