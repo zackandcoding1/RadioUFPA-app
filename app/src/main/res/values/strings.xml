@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Rádio UFPA</string>
-    
-    <string name="open">Open</string>
-    <string name="close">Close</string>
+
+    <string name="navigation_drawer_open">Menu de navegação aberto</string>
+    <string name="navigation_drawer_closed">Menu de navegação fechado</string>
+    <string name="ao_vivo">Ao Vivo</string>
 </resources>
